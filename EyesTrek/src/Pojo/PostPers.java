@@ -7,14 +7,9 @@
 
 package Pojo;
 
-
-
 public class PostPers {
     
-    
     public String person_id;
-    
-    
     public PostPers(){}
     
 }
