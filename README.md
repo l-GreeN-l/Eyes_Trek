@@ -2,15 +2,15 @@
 
 ### Description
 
-    This java 8  tray app for conected OPC server with Vision Labs Luna. 
-    App use WebSoket session for results geting identifications/verifications. 
-    For connect to OPC server use OPC UA protocol
+This java 8  tray app for conected OPC server with Vision Labs Luna.  
+App use WebSoket session for results geting identifications/verifications.   
+For connect to OPC server use OPC UA protocol. 
 
 [Vision Labs project](https://visionlabs.ai/ru/products/luna-platform)  
 [OPC UA](http://opcfoundation.github.io/UA-Java-Legacy/)  
 
 ### Build
-    App builds in standart JAR file. Build with make standart tools Netbeans 8.2
+App builds in standart JAR file. Build with make standart tools Netbeans 8.2. 
   
  
 ### Useful links: 
